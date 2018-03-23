@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  NYTimes
+
+ //  Created by Kranthi Tatikonda on 22/03/18.
+ //  Copyright © 2018 Kranthi Tatikonda. All rights reserved.
+*/
+"ArticleDetail.NavigationItem.Title" = "Article Detail";
+"ArticleDetail.LinkToArticle.Text" = "Link to Full Article";
+"AuthorPrefix.By" = "By: ";
+"NY.Times.Tile" = "NY Times Most Popular";
+
+@
